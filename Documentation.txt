@@ -1,0 +1,21 @@
+Required. Documents
+
+PTC
+SSAC
+TPP
+VDD
+SDD
+IT Security Review
+QA Testing
+Government Test Concurrence
+5m. ROSA Metadata Checklist
+Deployment Validation Results
+CR
+
+Missing documents
+
+SDD
+QA Testing
+Government Test Concurrence
+5m. ROSA Metadata Checklist
+Deployment Validation Results
