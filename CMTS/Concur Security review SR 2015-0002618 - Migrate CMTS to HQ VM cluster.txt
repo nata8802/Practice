@@ -1,0 +1,53 @@
+From:	SAID, KARIM A. (HQ-LM020)[DIGITAL MANAGEMENT INC.]
+Sent:	Wednesday, June 10, 2015 5:35 PM
+To:	Shelton, Thomas M. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Goetzelt, 
+Hans (HQ-LM020)[DIGITAL MANAGEMENT INC.]
+Cc:	Sheridan, Lee (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Nicholson, Jeffrey L. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.]; GUNLOCK, DARREN E. (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]; Vazzana, Angela (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]
+Subject:	Fwd: Security review: SR 2015-0002618 - Migrate CMTS to HQ VM cluster
+Attachments:	Security review.docx; Untitled attachment 00045.txt
+Signed By:	karim.a.said@nasa.gov
+
+Hello all,
+
+I have delivered the security review for SR 2015-0002618 to ITCD.
+
+Thanks!
+--
+Karim Said
++1 (202) 358-0985
+
+Begin forwarded message:
+
+> From: Karim Said <karim.a.said@nasa.gov>
+> Subject: Security review: SR 2015-0002618 - Migrate CMTS to HQ VM cluster
+> Date: June 10, 2015 at 17:33:26 EDT
+> To: Marion Meissner <marion.meissner@nasa.gov>, Aaron Goad <aaron.m.goad@nasa.gov>, Linda 
+Hong <Linda.L.Hong@nasa.gov>, Dennis Groth <dennis.a.groth@nasa.gov>, Christopher Mccoy 
+<christopher.d.mccoy@nasa.gov>, Forood Boortalary <forood.boortalary-1@nasa.gov>, Liteshia Dennis 
+<liteshia.b.dennis@nasa.gov>
+> Cc: Lee Sheridan <lee.sheridan@nasa.gov>, Jeffrey Nicholson <jeffrey.l.nicholson@nasa.gov>, Darren 
+Gunlock <darren.e.gunlock@nasa.gov>, Angela Craig <angela.vazzana@nasa.gov>, Luis Ayala <luis.ayala-
+1@nasa.gov>
+> 
+> Hello all,
+> 
+> ITCD created SR 2015-0002618 to manage the migration of the CMTS applications from WESTPrime 
+into the HQ VM cluster. This SR is the first in a series seeking to migrate HQ applications back from the 
+WESTPrime environment.
+> 
+> HITSS Security, in collaboration with HITSS Application Development, performed an abbreviated 
+review of the proposed release of the application, which was relatively unchanged from it’s current 
+production state, including a manual review of all proposed code changes (full report attached). 
+> 
+> HITSS Security has identified no issues of note, and believes the overall risk associated with the SR to 
+be low. HITSS Security recommends that ITCD proceed as normal.
+> 
+> If you have any questions or concerns, feel free to be in touch.
+> 
+> Thanks!
+> --
+> Karim Said
+> +1 (202) 358-0985

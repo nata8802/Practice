@@ -1,0 +1,240 @@
+From:	Hong, Linda L. (HQ-LM021) <linda.l.hong@nasa.gov>
+Sent:	Wednesday, June 17, 2015 9:38 AM
+To:	Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; BRANDT, 
+WILLIAM R. (HQ-LM022); MCCOY, CHRISTOPHER D. (HQ-LM022)
+Cc:	'ppc@hq.nasa.gov'
+Subject:	Re: CMTS 5.0 VDD r1.00 for upload
+
+CMTS ORR is approved.  Thank you. 
+
+Best Regards,
+Linda Hong
+Branch Chief, IT Operations 
+HQ IT and Communications Division
+4N81
+300 E Street SW
+Washington, DC 20056
+202-358-0462
+
+From: <Hamlet>, "Tanya R. [DIGITAL MANAGEMENT INC.] (HQ-LM020)" <tanya.r.hamlet@nasa.gov> 
+Date: Wednesday, June 17, 2015 9:28 AM 
+To: "Hong, Linda L. (HQ-LM021)" <linda.l.hong@nasa.gov>, "BRANDT, WILLIAM R. (HQ-LM022)" 
+<william.r.brandt@nasa.gov>, "MCCOY, CHRISTOPHER D. (HQ-LM022)" 
+<christopher.d.mccoy@nasa.gov> 
+Cc: "'ppc@hq.nasa.gov'" <ppc@hq.nasa.gov> 
+Subject: RE: CMTS 5.0 VDD r1.00 for upload
+
+Including PPC 
+ 
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+ 
+DMI· Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+ 
+DMInc.com
+ 
+          
+ 
+ 
+ 
+ 
+From: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 9:27 AM 
+To: Hong, Linda L. (HQ-LM021); BRANDT, WILLIAM R. (HQ-LM022); MCCOY, CHRISTOPHER D. (HQ-
+LM022) 
+Subject: FW: CMTS 5.0 VDD r1.00 for upload
+ 
+Good morning Linda
+I confirmed with CM that the CMTS 5.0 VDD was approved on 6/11.
+See email below
+ 
+If you approve, please provide approval for the CMTS ORR.
+ 
+Thanks 
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+ 
+DMI· Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+ 
+DMInc.com
+ 
+          
+ 
+ 
+ 
+ 
+From: Shelton, Thomas M. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 9:18 AM 
+To: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Smith, Charlotte (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; hitsscm@hq.nasa.gov 
+Cc: hitssdocs@hq.nasa.gov; Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS 5.0 VDD r1.00 for upload
+ 
+Yes, it was on 11 June.
+ 
+Thomas M. Shelton
+Configuration Management Analyst
+2451 Crystal Drive, Suite 11, Cube 11086
+Arlington, VA 22202
+571-385-4022
+Cell Phone 571-292-6928
+ 
+From: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 9:10 AM 
+To: Shelton, Thomas M. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Smith, Charlotte (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]; hitsscm@hq.nasa.gov 
+Cc: hitssdocs@hq.nasa.gov; Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS 5.0 VDD r1.00 for upload
+ 
+Was this approved by ITCD
+ 
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+ 
+DMI· Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+ 
+DMInc.com
+ 
+          
+ 
+ 
+ 
+ 
+From: Shelton, Thomas M. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Thursday, June 11, 2015 11:35 AM 
+To: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.]; hitsscm@hq.nasa.gov 
+Cc: hitssdocs@hq.nasa.gov; Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS 5.0 VDD r1.00 for upload
+ 
+Saved to RAM, ITCD notified.
+ 
+Thomas M. Shelton
+Configuration Management Analyst
+2451 Crystal Drive, Suite 11, Cube 11086
+Arlington, VA 22202
+571-385-4022
+Cell Phone 571-292-6928
+ 
+From:hitsscm-bounces@lists.hq.nasa.gov [mailto:hitsscm-bounces@lists.hq.nasa.gov] On Behalf Of 
+Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Sent: Thursday, June 11, 2015 11:26 AM 
+To: hitsscm@hq.nasa.gov 
+Cc: hitssdocs@hq.nasa.gov; Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: [hitsscm] CMTS 5.0 VDD r1.00 for upload
+ 
+Attached is the CMTS, v5.0, Version Description Document for upload.  PM and Operations concurrences 
+are shown below.
+ 
+Thank you,
+Claire Smith
+ 
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Thursday, June 11, 2015 11:07 AM 
+To: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Le, Marithe (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+hitssdocs@hq.nasa.gov 
+Subject: RE: CMTS 5.0 VDD r1.00 for PM concurrence
+ 
+I concur.
+ 
+ 
+Thanks,
+ 
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+ 
+From: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 12:38 PM 
+To: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Le, Marithe (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+hitssdocs@hq.nasa.gov 
+Subject: CMTS 5.0 VDD r1.00 for PM concurrence
+ 
+Hi Lu,
+ 
+Attached is the CMTS, v5.0 Version Description Document for your review and concurrence or 
+comment.  Operations concurrence is shown below.  Please use “Reply All” for your response.
+ 
+Thank you,
+Claire Smith
+ 
+From: Grinnell, Jim (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Friday, June 05, 2015 2:04 PM 
+To: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 'server-ops-review@lists.hq.nasa.gov' 
+(server-ops-review@lists.hq.nasa.gov); Motsinger, Edward A. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; hitssdocs@hq.nasa.gov; Pretlor, Dawayne E. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS 5.0 VDD r0.10 for Operations concurrence
+ 
+I concur
+ 
+ 
+----------  
+Jim Grinnell, NHCC Operations, Unix Team Lead  
+NASA / HITSS 
+Desk: 202-358-0673
+Cell: 571-919-0375
+ 
+From: unix-bounces@lists.hq.nasa.gov [mailto:unix-bounces@lists.hq.nasa.gov] On Behalf Of Smith, 
+Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Sent: Friday, June 05, 2015 1:41 PM 
+To: 'server-ops-review@lists.hq.nasa.gov' (server-ops-review@lists.hq.nasa.gov); Motsinger, Edward A. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; hitssdocs@hq.nasa.gov; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.] 
+Subject: CMTS 5.0 VDD r0.10 for Operations concurrence
+ 
+Attached is the CMTS, v5.0, Version Description Document for Operations review and concurrence or 
+comment.  Please use “Reply All” for your response.
+ 
+Thank you, 
+Claire Smith
+ 
+C. Claire Smith
+Sr. Technical Writer/Editor
+DMI NASA HITSS
+ 
+703-393-8646 (desk)
+571-278-4751 (cell)
+ 

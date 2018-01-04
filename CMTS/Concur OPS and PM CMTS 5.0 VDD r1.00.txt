@@ -1,0 +1,94 @@
+From:	hitsscm-bounces@lists.hq.nasa.gov on behalf of Smith, Charlotte (HQ-
+LM020)[DIGITAL MANAGEMENT INC.] <charlotte.smith-1@nasa.gov>
+Sent:	Thursday, June 11, 2015 11:26 AM
+To:	hitsscm@hq.nasa.gov
+Cc:	hitssdocs@hq.nasa.gov; Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, 
+Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]
+Subject:	[hitsscm] CMTS 5.0 VDD r1.00 for upload
+Attachments:	CMTS 5.0 VDD r1.00.docx; ATT00001.txt
+
+Attached is the CMTS, v5.0, Version Description Document for upload.  PM and Operations concurrences 
+are shown below.
+
+Thank you,
+Claire Smith
+
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Thursday, June 11, 2015 11:07 AM 
+To: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Le, Marithe (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+hitssdocs@hq.nasa.gov 
+Subject: RE: CMTS 5.0 VDD r1.00 for PM concurrence
+
+I concur.
+
+
+Thanks,
+
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+
+From: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 12:38 PM 
+To: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Le, Marithe (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+hitssdocs@hq.nasa.gov 
+Subject: CMTS 5.0 VDD r1.00 for PM concurrence
+
+Hi Lu,
+
+Attached is the CMTS, v5.0 Version Description Document for your review and concurrence or 
+comment.  Operations concurrence is shown below.  Please use “Reply All” for your response.
+
+Thank you,
+Claire Smith
+
+From: Grinnell, Jim (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Friday, June 05, 2015 2:04 PM 
+To: Smith, Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 'server-ops-review@lists.hq.nasa.gov' 
+(server-ops-review@lists.hq.nasa.gov); Motsinger, Edward A. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; hitssdocs@hq.nasa.gov; Pretlor, Dawayne E. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS 5.0 VDD r0.10 for Operations concurrence
+
+I concur
+
+
+----------  
+Jim Grinnell, NHCC Operations, Unix Team Lead  
+NASA / HITSS 
+Desk: 202-358-0673
+Cell: 571-919-0375
+
+From: unix-bounces@lists.hq.nasa.gov [mailto:unix-bounces@lists.hq.nasa.gov] On Behalf Of Smith, 
+Charlotte (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Sent: Friday, June 05, 2015 1:41 PM 
+To: 'server-ops-review@lists.hq.nasa.gov' (server-ops-review@lists.hq.nasa.gov); Motsinger, Edward A. 
+(HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; hitssdocs@hq.nasa.gov; Pretlor, Dawayne E. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.] 
+Subject: CMTS 5.0 VDD r0.10 for Operations concurrence
+
+Attached is the CMTS, v5.0, Version Description Document for Operations review and concurrence or 
+comment.  Please use “Reply All” for your response.
+
+Thank you, 
+Claire Smith
+
+C. Claire Smith
+Sr. Technical Writer/Editor
+DMI NASA HITSS
+
+703-393-8646 (desk)
+571-278-4751 (cell)
+

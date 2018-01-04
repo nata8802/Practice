@@ -1,0 +1,163 @@
+From:	hitsscm-bounces@lists.hq.nasa.gov on behalf of Ricketts, Kurt R. (HQ-
+LM020)[DIGITAL MANAGEMENT INC.] <kurt.r.ricketts@nasa.gov>
+Sent:	Wednesday, June 17, 2015 2:31 PM
+To:	Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]
+Cc:	hitsscm@hq.nasa.gov
+Subject:	[hitsscm] FW: CMTS Architecture diagram
+Attachments:	ATT00002.txt
+
+Forwarding Engineering concurrence to the diagram.
+
+Kurt Ricketts
+Business Analyst
+T 571385.4047 • M 301.452.4263 
+
+DMI “Driving Mobile Innovation”
+
+From: Hamilton, Dirk (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 2:21 PM 
+To: Ricketts, Kurt R. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: Re: CMTS Architecture diagram
+
+This looks good
+
+From: <Ricketts>, "Kurt R. [DIGITAL MANAGEMENT INC.] (HQ-LM020)" 
+<kurt.r.ricketts@nasa.gov> 
+Date: Wednesday, June 17, 2015 1:14 PM 
+To: Dirk Hamilton <dirk.hamilton@nasa.gov> 
+Cc: Luis Ayala <luis.ayala-1@nasa.gov>, "Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.]" <tanya.r.hamlet@nasa.gov>, "hitsscm@hq.nasa.gov" <hitsscm@hq.nasa.gov> 
+Subject: RE: CMTS Architecture diagram
+
+Submitted for engineering review.
+ 
+Kurt Ricketts
+Business Analyst
+T 571385.4047 • M 301.452.4263 
+ 
+DMI“Driving Mobile Innovation”
+ 
+From: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 1:12 PM 
+To: Ricketts, Kurt R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; hitsscm@hq.nasa.gov 
+Cc: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS Architecture diagram
+ 
+Thank Kurt
+Was this reviewed by Dirk?
+ 
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+ 
+DMI· Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+ 
+DMInc.com
+ 
+          
+ 
+ 
+ 
+ 
+From: Ricketts, Kurt R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 1:08 PM 
+To: hitsscm@hq.nasa.gov 
+Cc: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.] 
+Subject: CMTS Architecture diagram
+ 
+Attached is the Architecture diagram for CMTS
+ 
+Kurt Ricketts
+Business Analyst
+T 571385.4047 • M 301.452.4263 
+ 
+DMI“Driving Mobile Innovation”
+ 
+From: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 11:32 AM 
+To: Ricketts, Kurt R. (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: FW: Deployment status
+ 
+Kurt
+Do you have the Architecture diagram for CMTS, if so please send to CM
+Thanks 
+ 
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+ 
+DMI· Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+ 
+DMInc.com
+ 
+          
+ 
+ 
+ 
+ 
+From: Shelton, Thomas M. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 17, 2015 10:15 AM 
+To: Younghall, Timeka (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Vaughn, Davetta (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Niemiec, Tyler T. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Ayala, Luis (HQ-
+LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+Gries, Scott D. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Smith, Lisa J. (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Goetzelt, Hans (HQ-LM020)[DIGITAL MANAGEMENT INC.]; 
+'hitssdocs@hq.nasa.gov' (hitssdocs@hq.nasa.gov) 
+Subject: Deployment status
+ 
+Here’s the status of the upcoming deployments.  Our folks are probably already aware and working, but 
+just wanted to send this out so nothing is overlooked.
+ 
+Thursday 18 June
+ 
+HISTORY-DMS 3.0.3 6:00 PM – Timeka Younghall
+Source Code
+ITCD concurrence to VDD
+ 
+PFSS 7.0.1 6:00 PM Timeka Younghall – Ready to go
+ 
+TCWD 4.0 6:00 PM Davetta Vaughn – Ready to go
+ 
+ATFI 2.0.1 9:00 PM Tyler Niemiec
+QA Test (if it’s being done)
+VDD
+App Owner concurrence to testing and deployment
+ 
+Friday 19 June
+ 
+CMTS 5.0 – 9:00 AM Luis Ayala
+ 
+WestPrime CIP & Verification of Jira ticket.
+Change Request approval – Still in NASA Review, Chris McCoy needs to sign off, was sent a reminder
+ORR Charts in IWMS and ORR Approval
+Architectural diagram
+ITCD concurrence to Tailored App Checklist - CMTS 5.0 QA Test.pdf which serves as the PTC.  They were 
+sent a reminder
+ 
+ 
+Thomas M. Shelton
+Configuration Management Analyst
+2451 Crystal Drive, Suite 11, Cube 11086
+Arlington, VA 22202
+571-385-4022
+Cell Phone 571-292-6928
+ 

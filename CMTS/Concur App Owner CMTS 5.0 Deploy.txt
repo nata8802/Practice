@@ -1,0 +1,184 @@
+From:	hitsscm-bounces@lists.hq.nasa.gov on behalf of Ayala, Luis (HQ-
+LM020)[DIGITAL MANAGEMENT INC.] <luis.ayala-1@nasa.gov>
+Sent:	Thursday, June 11, 2015 10:59 AM
+To:	hitsscm@hq.nasa.gov
+Subject:	[hitsscm] FW: CMTS testing
+Attachments:	ATT00001.txt
+
+CM,
+
+
+Below is application owner’s concurrence to deploy CMTS release 5.0. (Migration from WESTPrime to 
+HQ VM Cluster SR: 2618).
+
+
+Thanks,
+
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+
+From: Peters, Deandrea M. (HQ-LM043)  
+Sent: Wednesday, June 10, 2015 4:03 PM 
+To: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.] 
+Subject: RE: CMTS testing
+
+I concur with deploying CMTS release 5.0 to a new environment.  Please proceed.
+
+Deedy Peters  
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+De ANDREA M. PETERS  
+Chief  
+***************************************************************  
+NASA Headquarters  
+Human Resources Management Division  
+HR Development Branch  
+300 E Street, SW, Rm. 4C24  
+Washington, DC  20546  
+(202) 358-2009 - OFFICE
+(202) 420-8395 - MOBILE  
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  
+Deandrea.M.Peters@nasa.gov
+
+
+“Keep Moving Forward”
+
+
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 3:27 PM 
+To: Peters, Deandrea M. (HQ-LM043) 
+Cc: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.] 
+Subject: FW: CMTS testing
+
+Good Afternoon Deandrea,
+
+With Abby confirming CMTS testing today, please provide your concurrence to deploy CMTS release 
+5.0.  This release is just moving the application to a new environment here at NASA HQ.
+
+
+
+Thank you,
+
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+
+From: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]  
+Sent: Wednesday, June 10, 2015 3:19 PM 
+To: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL 
+MANAGEMENT INC.]; Peters, Deandrea M. (HQ-LM043) 
+Subject: RE: CMTS testing
+
+The CMTS system was successfully tested and the main features I use were functioning properly in the 
+test.
+
+Abby
+
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 2:00 PM 
+To: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.]; Peters, Deandrea M. (HQ-LM043) 
+Subject: RE: CMTS testing
+
+Abby,
+
+Thanks again for making the time to perform UAT/TRR government testing today.  Please provide your 
+concurrence to successfully testing CMTS in our SEF Test Staging environment. Please reply to all with 
+your concurrence.
+
+
+Deandrea,
+
+Once Abby provides her concurrence to testing CMTS, please provide your concurrence to deploy CMTS, 
+which is current scheduled for next Friday June 19th.
+
+
+
+
+Thank you for the support,
+
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 1:27 PM 
+To: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]; Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT 
+INC.]; Peters, Deandrea M. (HQ-LM043) 
+Subject: RE: CMTS testing
+
+Abby,
+
+The PDF file attached provides the test URL and test steps we will be performing.  I’m heading over now.
+
+
+
+Thanks,
+
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+
+From: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]  
+Sent: Wednesday, June 10, 2015 11:36 AM 
+To: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Peters, Deandrea M. (HQ-LM043) 
+Cc: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: RE: CMTS testing
+
+I can do today, but Deedy just stepped away from her office, so I can check with her as well.
+
+Abby
+
+From: Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]  
+Sent: Wednesday, June 10, 2015 11:10 AM 
+To: Locke, Abby M. (HQ-LM040)[ALL NATIVE INC]; Peters, Deandrea M. (HQ-LM043) 
+Cc: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: CMTS testing
+
+Hi Deedy and Abby
+We are ready for you to complete CMTS customer testing.  Luis will be scheduling a 
+meeting for this week.  The plan is to deploy CMTS to HQ next week.  
+
+Thanks 
+Meeting invite coming soon.
+
+==========================================
+Tanya Hamlet
+NASA HITSS Customer Relationship Manager  
+Digital Management Inc (DMI)
+400 Virginia Ave. Suite 200
+Washington DC, SW 20024
+202-350-2113 - Desk
+tanya.r.hamlet@nasa.gov
+
+DMI · Mobile Enterprise Solutions
+6550 Rock Spring Dr · 7th Floor · Bethesda, MD 20817
+Main: 240.223.4800 
+U.S. Sales: 1.855.963.2099 · International Sales: 240.200.5848
+
+DMInc.com
+
+          
+
+
+
+
