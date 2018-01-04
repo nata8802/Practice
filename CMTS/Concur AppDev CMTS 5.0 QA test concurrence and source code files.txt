@@ -1,0 +1,41 @@
+From:	hitsscm-bounces@lists.hq.nasa.gov on behalf of Le, Marithe (HQ-
+LM020)[DIGITAL MANAGEMENT INC.] <marithe.le@nasa.gov>
+Sent:	Thursday, June 11, 2015 3:13 PM
+To:	Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.]; hitsscm@hq.nasa.gov
+Cc:	Hamlet, Tanya R. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; McPherson, 
+Alicia Nikisha. (HQ-LM020)[DIGITAL MANAGEMENT INC.]
+Subject:	[hitsscm] CMTS Q/A test concurrence and source code files
+Attachments:	Tailored App Checklist - CMTS (1).pdf; ATT00002.txt
+
+CM, 
+ 
+We've completed QA testing for CMTS on the stage.  All items on the checklist attached have 
+passed.  The source code files are in the CM Source Code directory.
+
+Marithé Le 
+HITSS NASA HQ Software Development 
+marithe.le@nasa.gov
+ 
+From: Ayala, Luis (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Sent: Thursday, June 11, 2015 2:54 PM 
+To: Le, Marithe (HQ-LM020)[DIGITAL MANAGEMENT INC.] 
+Cc: McPherson, Alicia Nikisha. (HQ-LM020)[DIGITAL MANAGEMENT INC.]; Hamlet, Tanya R. (HQ-
+LM020)[DIGITAL MANAGEMENT INC.] 
+Subject: CMTS Q/A test concurrence and source code files 
+Marithe,
+ 
+Can you provide CM with an e-mail stating that App Dev performed Q/A on CMTS.  Also, can you provide 
+the source code files that will be deployed in this release to CM?
+ 
+ 
+ 
+Thanks,
+ 
+Luis Ayala
+Technical Project Manager
+DMI/NASA HQ HITSS Contract 
+400 Virginia Ave, SW
+Suite 200
+Washington, DC 20024
+Office: (202) 350-2103
+ 
